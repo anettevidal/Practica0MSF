@@ -2,7 +2,7 @@
 
 # Práctica 0: Modelo del sistema respiratorio
 
-## Infromación la estudiante
+## Información de la estudiante
 Anette Mariana Vidal Ortiz \[22212389]: l22212389@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
